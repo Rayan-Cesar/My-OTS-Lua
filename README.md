@@ -1,2 +1,2 @@
 # TG-Lua
-Lua Scripts TG
+Some Lua Scripts for my TG server.
