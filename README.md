@@ -1,2 +1,2 @@
-# TG-Lua
-Some Lua Scripts for my TG server.
+# OTS-Lua
+Some Lua Scripts for my OT server.
